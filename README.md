@@ -1,5 +1,5 @@
 # loadout-manager-
-Setup guide (plain text)
+Setup guide
 
 What you need before running this:
 
